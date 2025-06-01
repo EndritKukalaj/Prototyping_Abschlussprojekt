@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "c155b900-93cd-419f-8b20-7e9a3ca657f2",
+    "datum": "2025-03-25T14:45:00.000Z",
+    "preis": 150,
+    "warteliste": true,
+    "zahnarztId": "1581318d-8d80-4d97-ab50-649126f6fa8f",
+    "behandlung": {
+      "titel": "Dentalhygiene",
+      "beschreibung": "Professionelle Zahnreinigung zur Vorbeugung von Zahnerkrankungen",
+      "preis": 150
+    }
+  },
+  {
+    "_id": "bd96f1f0-e74f-4dcf-97a2-25baebc79b75",
+    "datum": "2025-03-30T10:15:00.000Z",
+    "preis": 120,
+    "warteliste": true,
+    "zahnarztId": "aa265d02-a6f8-47c3-90e4-2f7c3e801d7e",
+    "behandlung": {
+      "titel": "Zahnfüllung",
+      "beschreibung": "Reparatur kariöser Stellen mit hochwertigen Füllmaterialien",
+      "preis": 120
+    }
+  },
+  {
+    "_id": "8da365dd-a675-48b0-a3c6-f61dc6f9a26e",
+    "datum": "2025-04-05T09:30:00.000Z",
+    "preis": 120,
+    "warteliste": true,
+    "zahnarztId": "fb688563-3328-45e2-9a97-89e1589d64f7",
+    "behandlung": {
+      "titel": "Prophylaxe",
+      "beschreibung": "Individuelle Vorsorgeuntersuchung mit Tipps zur Zahnpflege",
+      "preis": 120
+    }
+  },
+  {
+    "_id": "328cd086-2ce2-4200-8e24-bc1ccc3ac574",
+    "datum": "2025-04-10T11:00:00.000Z",
+    "preis": 200,
+    "warteliste": true,
+    "zahnarztId": "602f1d42-4ed7-4d89-95a9-b1cc0ad8deca",
+    "behandlung": {
+      "titel": "Wurzelbehandlung",
+      "beschreibung": "Behandlung entzündeter Zahnwurzeln zur Zahnerhaltung",
+      "preis": 200
+    }
+  },
+  {
+    "_id": "74de0cd0-4448-4649-90f3-c67143b46cbe",
+    "datum": "2025-04-15T13:15:00.000Z",
+    "preis": 200,
+    "warteliste": true,
+    "zahnarztId": "5cec920e-d651-4ac5-ab5f-2a323720e383",
+    "behandlung": {
+      "titel": "Implantatberatung",
+      "beschreibung": "Beratungsgespräch zur Zahnersatzbehandlung mit Implantaten",
+      "preis": 200
+    }
+  },
+  {
+    "_id": "feee88c6-4d99-4926-9f6f-81451aec635b",
+    "datum": "2025-04-20T15:30:00.000Z",
+    "preis": 120,
+    "warteliste": false,
+    "zahnarztId": "78ea3008-39d8-4031-b89c-d31db1674a19",
+    "behandlung": {
+      "titel": "Prophylaxe",
+      "beschreibung": "Individuelle Vorsorgeuntersuchung mit Tipps zur Zahnpflege",
+      "preis": 120
+    }
+  },
+  {
+    "_id": "d4b128a3-a1d3-4bae-b014-08d580571f0d",
+    "datum": "2025-04-25T08:00:00.000Z",
+    "preis": 150,
+    "warteliste": false,
+    "zahnarztId": "7266febb-fd1c-41fe-8699-29248e442fb9",
+    "behandlung": {
+      "titel": "Prophylaxe",
+      "beschreibung": "Individuelle Vorsorgeuntersuchung mit Tipps zur Zahnpflege",
+      "preis": 150
+    }
+  },
+  {
+    "_id": "d1aa563d-6cf8-4f72-9be4-3b72900a7f04",
+    "datum": "2025-05-01T10:45:00.000Z",
+    "preis": 200,
+    "warteliste": false,
+    "zahnarztId": "ddea271f-fce0-4b3d-8eb4-368bd0611d65",
+    "behandlung": {
+      "titel": "Prophylaxe",
+      "beschreibung": "Individuelle Vorsorgeuntersuchung mit Tipps zur Zahnpflege",
+      "preis": 200
+    }
+  }
+]

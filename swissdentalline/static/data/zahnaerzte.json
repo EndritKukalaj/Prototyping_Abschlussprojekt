@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "5cec920e-d651-4ac5-ab5f-2a323720e383",
+    "vorname": "Agata",
+    "nachname": "Stutz",
+    "email": "agata.stutz@zahnklinik-bellevue.ch",
+    "telefon": "044 500 60 10",
+    "praxis": {
+      "name": "Zahnklinik Bellevue",
+      "strasse": "Seestrasse 5",
+      "plz": "8000",
+      "ort": "Zürich"
+    }
+  },
+  {
+    "_id": "78ea3008-39d8-4031-b89c-d31db1674a19",
+    "vorname": "Heiko",
+    "nachname": "Lustenberger",
+    "email": "h.lustenberger@praxis-am-see.ch",
+    "telefon": "044 500 60 11",
+    "praxis": {
+      "name": "Praxis am See",
+      "strasse": "Utoquai 12",
+      "plz": "8001",
+      "ort": "Zürich"
+    }
+  },
+  {
+    "_id": "ddea271f-fce0-4b3d-8eb4-368bd0611d65",
+    "vorname": "Antoine",
+    "nachname": "Meyer",
+    "email": "antoine@dentalcare-zuerich.ch",
+    "telefon": "044 500 60 12",
+    "praxis": {
+      "name": "DentalCare Zürich",
+      "strasse": "Limmatstrasse 30",
+      "plz": "8002",
+      "ort": "Zürich"
+    }
+  },
+  {
+    "_id": "fdf73825-3810-46fc-b775-9468b9d427fd",
+    "vorname": "Hildegard",
+    "nachname": "Kaiser",
+    "email": "info@smilezentrum.ch",
+    "telefon": "044 500 60 13",
+    "praxis": {
+      "name": "Smile Zentrum",
+      "strasse": "Claridenstrasse 7",
+      "plz": "8003",
+      "ort": "Zürich"
+    }
+  },
+  {
+    "_id": "602f1d42-4ed7-4d89-95a9-b1cc0ad8deca",
+    "vorname": "Luana",
+    "nachname": "Kessler",
+    "email": "luana.kessler@zahnaerzte-am-ring.ch",
+    "telefon": "044 500 60 14",
+    "praxis": {
+      "name": "Zahnärzte am Ring",
+      "strasse": "Badenerstrasse 48",
+      "plz": "8004",
+      "ort": "Zürich"
+    }
+  },
+  {
+    "_id": "aa265d02-a6f8-47c3-90e4-2f7c3e801d7e",
+    "vorname": "Dominik",
+    "nachname": "Ammann",
+    "email": "kontakt@zahngesundheit-zentrum.ch",
+    "telefon": "044 500 60 15",
+    "praxis": {
+      "name": "Zentrum für Zahngesundheit",
+      "strasse": "Zähringerstrasse 15",
+      "plz": "8005",
+      "ort": "Zürich"
+    }
+  },
+  {
+    "_id": "5c11c72b-28c8-4994-b7f7-7f389cbb252c",
+    "vorname": "Hüseyin",
+    "nachname": "Studer",
+    "email": "h.studer@city-dental.ch",
+    "telefon": "044 500 60 16",
+    "praxis": {
+      "name": "City Dental Praxis",
+      "strasse": "Langstrasse 99",
+      "plz": "8006",
+      "ort": "Zürich"
+    }
+  },
+  {
+    "_id": "1581318d-8d80-4d97-ab50-649126f6fa8f",
+    "vorname": "Franco",
+    "nachname": "Lutz",
+    "email": "franco@praxis-bellevue.ch",
+    "telefon": "044 500 60 17",
+    "praxis": {
+      "name": "Praxis Bellevue",
+      "strasse": "Forchstrasse 18",
+      "plz": "8007",
+      "ort": "Zürich"
+    }
+  },
+  {
+    "_id": "7266febb-fd1c-41fe-8699-29248e442fb9",
+    "vorname": "John",
+    "nachname": "Ott",
+    "email": "john.ott@zahnwelt.ch",
+    "telefon": "044 500 60 18",
+    "praxis": {
+      "name": "Zahnwelt Zürich",
+      "strasse": "Schaffhauserplatz 2",
+      "plz": "8008",
+      "ort": "Zürich"
+    }
+  },
+  {
+    "_id": "fb688563-3328-45e2-9a97-89e1589d64f7",
+    "vorname": "Jil",
+    "nachname": "Meyer",
+    "email": "jil.meyer@dentalzentrum-nord.ch",
+    "telefon": "044 500 60 19",
+    "praxis": {
+      "name": "Dentalzentrum Nord",
+      "strasse": "Zentralstrasse 21",
+      "plz": "8009",
+      "ort": "Zürich"
+    }
+  }
+]
