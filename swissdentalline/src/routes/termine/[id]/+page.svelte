@@ -5,22 +5,25 @@
 </script>
 
 <div class="container pt-5">
-  <div class="row align-items-center mb-5">
-    <div class="col-auto text-end">
-      <button class="btn px-5 rounded-pill fw-bold shadow back-btn">
-        <a href="/termine" class="text-decoration-none text-black">Zurück</a>
-      </button>
-    </div>
+  <div class="row align-items-center mb-2">
     <div class="col text-center">
       <h2 class="fw-bold m-0">Termin</h2>
     </div>
-    <div class="col-auto text-end">
-      <form method="POST" action="?/delete">
+  </div>
+  <div class="row">
+    <div class="col text-start">
+      <a href="/termine" class="btn px-5 rounded-pill fw-bold shadow back-btn text-decoration-none text-black">
+        Zurück
+      </a>
+    </div>
+    <div class="col text-end">
+      <form method="POST" action="?/delete" class="d-inline">
         <input type="hidden" name="id" value={data.termin._id} />
-        <button type="submit" class="btn px-5 rounded-pill fw-bold shadow mb-3 delete-btn"> Löschen </button>
+        <button type="submit" class="btn px-5 rounded-pill fw-bold shadow mb-3 delete-btn">Löschen</button>
       </form>
     </div>
   </div>
+
   <div class="row g-4">
     <div class="col-md-6 col-lg-6">
       <div
